@@ -212,3 +212,8 @@ flycheck_*.el
 # network security
 /network-security.data
 
+# trilobite specific
+bin/
+etc/
+pyvenv.cfg
+share/
